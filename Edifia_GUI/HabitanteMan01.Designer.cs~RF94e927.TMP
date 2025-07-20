@@ -1,0 +1,294 @@
+﻿namespace Edifia_GUI
+{
+    partial class HabitanteMan01
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            label2 = new Label();
+            txtFiltro = new TextBox();
+            dtgDatos = new DataGridView();
+            lblRegistros = new Label();
+            label1 = new Label();
+            btnCerrar = new Button();
+            btnEliminar = new Button();
+            btnActualizar = new Button();
+            btnAgregar = new Button();
+            Nombre = new DataGridViewTextBoxColumn();
+            Apellido = new DataGridViewTextBoxColumn();
+            DNI = new DataGridViewTextBoxColumn();
+            numero = new DataGridViewTextBoxColumn();
+            Estado = new DataGridViewTextBoxColumn();
+            Fecha_Ing = new DataGridViewTextBoxColumn();
+            FechaEgreso = new DataGridViewTextBoxColumn();
+            Fec_reg = new DataGridViewTextBoxColumn();
+            Foto = new DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)dtgDatos).BeginInit();
+            SuspendLayout();
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.ForeColor = Color.White;
+            label2.Location = new Point(763, 368);
+            label2.Margin = new Padding(4, 0, 4, 0);
+            label2.Name = "label2";
+            label2.Size = new Size(78, 19);
+            label2.TabIndex = 39;
+            label2.Text = "Registros:";
+            // 
+            // txtFiltro
+            // 
+            txtFiltro.Location = new Point(362, 31);
+            txtFiltro.Margin = new Padding(4, 2, 4, 2);
+            txtFiltro.Name = "txtFiltro";
+            txtFiltro.Size = new Size(271, 23);
+            txtFiltro.TabIndex = 31;
+            txtFiltro.TextChanged += txtFiltro_TextChanged;
+            // 
+            // dtgDatos
+            // 
+            dtgDatos.AllowUserToAddRows = false;
+            dtgDatos.AllowUserToDeleteRows = false;
+            dtgDatos.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dtgDatos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dtgDatos.Columns.AddRange(new DataGridViewColumn[] { Nombre, Apellido, DNI, numero, Estado, Fecha_Ing, FechaEgreso, Fec_reg, Foto });
+            dtgDatos.Location = new Point(39, 71);
+            dtgDatos.Margin = new Padding(4, 2, 4, 2);
+            dtgDatos.Name = "dtgDatos";
+            dtgDatos.ReadOnly = true;
+            dtgDatos.RowHeadersVisible = false;
+            dtgDatos.RowHeadersWidth = 51;
+            dtgDatos.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+            dtgDatos.Size = new Size(1016, 271);
+            dtgDatos.TabIndex = 38;
+            // 
+            // lblRegistros
+            // 
+            lblRegistros.BackColor = Color.White;
+            lblRegistros.BorderStyle = BorderStyle.FixedSingle;
+            lblRegistros.ForeColor = Color.Black;
+            lblRegistros.Location = new Point(858, 363);
+            lblRegistros.Margin = new Padding(4, 0, 4, 0);
+            lblRegistros.Name = "lblRegistros";
+            lblRegistros.Size = new Size(155, 27);
+            lblRegistros.TabIndex = 37;
+            lblRegistros.TextAlign = ContentAlignment.MiddleRight;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.FromArgb(242, 242, 247);
+            label1.Location = new Point(52, 34);
+            label1.Margin = new Padding(4, 0, 4, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(270, 19);
+            label1.TabIndex = 36;
+            label1.Text = "Busqueda Habitante por apellido:";
+            // 
+            // btnCerrar
+            // 
+            btnCerrar.BackColor = Color.Red;
+            btnCerrar.FlatStyle = FlatStyle.Popup;
+            btnCerrar.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnCerrar.ForeColor = Color.FromArgb(242, 242, 247);
+            btnCerrar.Location = new Point(886, 410);
+            btnCerrar.Margin = new Padding(4, 3, 4, 3);
+            btnCerrar.Name = "btnCerrar";
+            btnCerrar.Size = new Size(169, 28);
+            btnCerrar.TabIndex = 35;
+            btnCerrar.Text = "Cerrar";
+            btnCerrar.UseVisualStyleBackColor = false;
+            btnCerrar.Click += btnCerrar_Click;
+            // 
+            // btnEliminar
+            // 
+            btnEliminar.BackColor = Color.FromArgb(10, 132, 255);
+            btnEliminar.FlatStyle = FlatStyle.Popup;
+            btnEliminar.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnEliminar.ForeColor = Color.FromArgb(242, 242, 247);
+            btnEliminar.Location = new Point(481, 410);
+            btnEliminar.Margin = new Padding(4, 3, 4, 3);
+            btnEliminar.Name = "btnEliminar";
+            btnEliminar.Size = new Size(169, 28);
+            btnEliminar.TabIndex = 34;
+            btnEliminar.Text = "Eliminar";
+            btnEliminar.UseVisualStyleBackColor = false;
+            btnEliminar.Click += btnEliminar_Click;
+            // 
+            // btnActualizar
+            // 
+            btnActualizar.BackColor = Color.FromArgb(10, 132, 255);
+            btnActualizar.FlatStyle = FlatStyle.Popup;
+            btnActualizar.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnActualizar.ForeColor = Color.FromArgb(242, 242, 247);
+            btnActualizar.Location = new Point(271, 410);
+            btnActualizar.Margin = new Padding(4, 3, 4, 3);
+            btnActualizar.Name = "btnActualizar";
+            btnActualizar.Size = new Size(169, 28);
+            btnActualizar.TabIndex = 33;
+            btnActualizar.Text = "Actualizar";
+            btnActualizar.UseVisualStyleBackColor = false;
+            btnActualizar.Click += btnActualizar_Click;
+            // 
+            // btnAgregar
+            // 
+            btnAgregar.BackColor = Color.FromArgb(10, 132, 255);
+            btnAgregar.FlatStyle = FlatStyle.Popup;
+            btnAgregar.Font = new Font("Century Gothic", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnAgregar.ForeColor = Color.FromArgb(242, 242, 247);
+            btnAgregar.Location = new Point(61, 410);
+            btnAgregar.Margin = new Padding(4, 3, 4, 3);
+            btnAgregar.Name = "btnAgregar";
+            btnAgregar.Size = new Size(169, 28);
+            btnAgregar.TabIndex = 32;
+            btnAgregar.Text = "Agregar";
+            btnAgregar.UseVisualStyleBackColor = false;
+            btnAgregar.Click += btnAgregar_Click;
+            // 
+            // Nombre
+            // 
+            Nombre.DataPropertyName = "nombre";
+            Nombre.HeaderText = "Nombre";
+            Nombre.MinimumWidth = 6;
+            Nombre.Name = "Nombre";
+            Nombre.ReadOnly = true;
+            // 
+            // Apellido
+            // 
+            Apellido.DataPropertyName = "apellido";
+            Apellido.HeaderText = "Apellido";
+            Apellido.MinimumWidth = 6;
+            Apellido.Name = "Apellido";
+            Apellido.ReadOnly = true;
+            // 
+            // DNI
+            // 
+            DNI.DataPropertyName = "documento";
+            DNI.HeaderText = "DNI";
+            DNI.MinimumWidth = 6;
+            DNI.Name = "DNI";
+            DNI.ReadOnly = true;
+            // 
+            // numero
+            // 
+            numero.DataPropertyName = "numero";
+            numero.HeaderText = "Numero";
+            numero.MinimumWidth = 6;
+            numero.Name = "numero";
+            numero.ReadOnly = true;
+            // 
+            // Estado
+            // 
+            Estado.DataPropertyName = "Estado";
+            Estado.HeaderText = "Estado";
+            Estado.MinimumWidth = 6;
+            Estado.Name = "Estado";
+            Estado.ReadOnly = true;
+            // 
+            // Fecha_Ing
+            // 
+            Fecha_Ing.DataPropertyName = "fecha_ingreso";
+            Fecha_Ing.HeaderText = "Fecha Ingreso";
+            Fecha_Ing.MinimumWidth = 6;
+            Fecha_Ing.Name = "Fecha_Ing";
+            Fecha_Ing.ReadOnly = true;
+            // 
+            // FechaEgreso
+            // 
+            FechaEgreso.DataPropertyName = "fecha_egreso";
+            FechaEgreso.HeaderText = "Fecha Egreso";
+            FechaEgreso.MinimumWidth = 6;
+            FechaEgreso.Name = "FechaEgreso";
+            FechaEgreso.ReadOnly = true;
+            // 
+            // Fec_reg
+            // 
+            Fec_reg.DataPropertyName = "Fec_reg";
+            Fec_reg.HeaderText = "F. Registro";
+            Fec_reg.MinimumWidth = 6;
+            Fec_reg.Name = "Fec_reg";
+            Fec_reg.ReadOnly = true;
+            // 
+            // Foto
+            // 
+            Foto.DataPropertyName = "foto";
+            Foto.HeaderText = "Foto";
+            Foto.Name = "Foto";
+            Foto.ReadOnly = true;
+            // 
+            // HabitanteMan01
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaptionText;
+            ClientSize = new Size(1121, 474);
+            Controls.Add(label2);
+            Controls.Add(txtFiltro);
+            Controls.Add(dtgDatos);
+            Controls.Add(lblRegistros);
+            Controls.Add(label1);
+            Controls.Add(btnCerrar);
+            Controls.Add(btnEliminar);
+            Controls.Add(btnActualizar);
+            Controls.Add(btnAgregar);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            KeyPreview = true;
+            Margin = new Padding(3, 2, 3, 2);
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "HabitanteMan01";
+            Text = "Mantenimiento Habitante";
+            Load += HabitanteMan01_Load;
+            ((System.ComponentModel.ISupportInitialize)dtgDatos).EndInit();
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private Label label2;
+        private TextBox txtFiltro;
+        private DataGridView dtgDatos;
+        private Label lblRegistros;
+        private Label label1;
+        private Button btnCerrar;
+        private Button btnEliminar;
+        private Button btnActualizar;
+        private Button btnAgregar;
+        private DataGridViewTextBoxColumn Nombre;
+        private DataGridViewTextBoxColumn Apellido;
+        private DataGridViewTextBoxColumn DNI;
+        private DataGridViewTextBoxColumn numero;
+        private DataGridViewTextBoxColumn Estado;
+        private DataGridViewTextBoxColumn Fecha_Ing;
+        private DataGridViewTextBoxColumn FechaEgreso;
+        private DataGridViewTextBoxColumn Fec_reg;
+        private DataGridViewTextBoxColumn Foto;
+    }
+}

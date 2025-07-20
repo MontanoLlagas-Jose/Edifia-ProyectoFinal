@@ -1,0 +1,224 @@
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.sourcelink.json
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.sourcelink.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.sourcelink.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.deps.json
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BL.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_ADO.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\bin\Debug\net8.0\Edifia_BE.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.AssemblyReference.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfoInputs.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.AssemblyInfo.cs
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.CoreCompileInputs.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.csproj.Up2Date
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\refint\Edifia_BL.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\Edifia_BL.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_BL\obj\Debug\net8.0\ref\Edifia_BL.dll

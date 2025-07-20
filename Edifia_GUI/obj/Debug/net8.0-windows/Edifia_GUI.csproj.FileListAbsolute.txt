@@ -1,0 +1,671 @@
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmPersona.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.PersonaMan01.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.sourcelink.json
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmHabitante.resources
+F:\Archivos\ISIL\CICLO 5\DESS. APLICACIONES 1\EdifiaProyecto\Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmVisita.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.sourcelink.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.sourcelink.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan04.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan04.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\Users\user\Desktop\edifia - backup del backup\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan04.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\Users\user\Desktop\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan04.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\base parcial\Edifia\v3Edifia\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ISIL\2024-02\DESARROLLO DE APLICACIONES 1\parcial - modificable\parcial correcciones\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmListadosExcel.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmListadosExcel.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan01.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan02.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan03.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\Users\setco\OneDrive\Desktop\EF_04\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmListadosExcel.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan01.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan02.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan03.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\ISIL\Proyecto\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmListadosExcel.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan01.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan02.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan03.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\ISIL\6TO CICLO\Proyecto Tecnológico\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmListadosExcel.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan01.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan02.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan03.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.exe
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll.config
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.deps.json
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.runtimeconfig.json
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BE.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_BL.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\bin\Debug\net8.0-windows\Edifia_ADO.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.AssemblyReference.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan01.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan02.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.DepartamentoMan03.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan01.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.EmpleadoMan02.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmEmpleado.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmListadosExcel.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmLogin.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.frmMantenimiento02.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan01.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan02.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.HabitanteMan03.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MantenimientoMan01.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.MDIPrincipal.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.Properties.Resources.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan01.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan02.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.VisitaMan03.resources
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.GenerateResource.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfoInputs.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.AssemblyInfo.cs
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.CoreCompileInputs.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.csproj.Up2Date
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\refint\Edifia_GUI.dll
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.pdb
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\Edifia_GUI.genruntimeconfig.cache
+C:\ISIL\Nueva carpeta3\Proyecto_EDIFIA\Solucion_windows\Edifia_GUI\obj\Debug\net8.0-windows\ref\Edifia_GUI.dll
