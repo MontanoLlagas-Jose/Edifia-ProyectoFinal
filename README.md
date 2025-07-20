@@ -5,7 +5,7 @@ Este repositorio contiene el sistema **Edifia**, desarrollado en Visual Studio c
 ---
 
 ## 📁 Estructura del proyecto
-
+```
 /Edifia
 ├── Edifia.sln # Solución de Visual Studio
 ├── Edifia_GUI # Capa de presentación (interfaz gráfica)
@@ -16,6 +16,7 @@ Este repositorio contiene el sistema **Edifia**, desarrollado en Visual Studio c
 ├── plantilla.xlsx # Archivo adicional del proyecto
 ├── README.md # Este archivo
 └── .gitignore # Exclusión de archivos innecesarios
+```
 
 ---
 
@@ -54,10 +55,10 @@ FOR ATTACH;
 ```
 ## Configurar la cadena de conexión
 En el proyecto, busca el archivo de configuración (App.config) y edita la cadena de conexión:
-
+```
 <connectionStrings>
   <add name="Conexion"
        connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Edifia;Integrated Security=True" />
 </connectionStrings>
-
+```
 
