@@ -72,7 +72,7 @@ En el proyecto, busca el archivo de configuración (App.config) y edita la caden
 
 Si usas la versión portable:
 
-Modifica el archivo con nombre Edifia_GUI.dll.config (Puede usar notepad, Visual Studio o cualquier otro editor para este paso) y actualiza el <connectionString>
+Modifica el archivo con nombre Edifia_GUI.dll.config (Puede usar notepad, Visual Studio o cualquier otro editor para este paso) y actualiza el connectionString
 
 Si utilizamos SQL Server:
 
