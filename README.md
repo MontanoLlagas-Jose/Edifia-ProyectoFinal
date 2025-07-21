@@ -17,7 +17,14 @@ Este repositorio contiene el sistema **Edifia**, desarrollado en Visual Studio c
 ├── README.md # Este archivo
 └── .gitignore # Exclusión de archivos innecesarios
 ```
+## 📁 Estructura del portable
 
+```
+/Edifia - Portable
+├── Edifia # Carpeta con el ejecutable
+├── BDD.rar # Base de datos (.mdf y .ldf comprimidos)
+
+```
 ---
 
 ## 🚀 Despliegue del proyecto
@@ -27,7 +34,7 @@ Este repositorio contiene el sistema **Edifia**, desarrollado en Visual Studio c
 Puedes usar Git:
 
 ```bash```
-git clone https://github.com/tu-usuario/Edifia.git
+git clone https://github.com/MontanoLlagas-Jose/Edifia.git
 
 ---
 
@@ -40,7 +47,7 @@ Descomprime el archivo BDD.rar, que contiene:
 
 Mueve los archivos a una ubicación de tu preferencia (ej: C:\Edifia\BD)
 
-Abre SQL Server Management Studio (SSMS).
+Abre SQL Server Management Studio (SSMS) o SQL Express (Importante ejecutar el programa en Administrador).
 
 Ejecuta el siguiente script para adjuntar la base de datos:
 ```
@@ -54,11 +61,31 @@ FOR ATTACH;
 
 ```
 ## Configurar la cadena de conexión
-En el proyecto, busca el archivo de configuración (App.config) y edita la cadena de conexión:
+
+Recomendamos tener instalado SQL Express o SQL Server de Microsoft
+
+Si usamos el repositorio:
+
+En el proyecto, busca el archivo de configuración (App.config) y edita la cadena de conexión
+
+Si usas la versión portable:
+
+Modifica el archivo con nombre Edifia_GUI.dll.config (Puede usar notepad, Visual Studio o cualquier otro editor para este paso) y actualiza el <connectionString>
+
+Si utilizamos SQL Server:
+
+```
+	<connectionStrings>
+		<add name ="Edifia" connectionString ="server=;Database=Edifia;Integrated Security=true"
+			 providerName="System.Data.SqlClient"/>
+	</connectionStrings>
+```
+
+Si usamos SQL Express:
+
 ```
 <connectionStrings>
   <add name="Conexion"
        connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Edifia;Integrated Security=True" />
 </connectionStrings>
 ```
-
