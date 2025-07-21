@@ -36,7 +36,7 @@ Puedes encontrar la versión portable en Releases de este mismo repositorio.
 Puedes usar Git:
 
 ```bash```
-git clone https://github.com/MontanoLlagas-Jose/Edifia.git
+git clone https://github.com/MontanoLlagas-Jose/Edifia-ProyectoFinal.git
 
 ---
 
