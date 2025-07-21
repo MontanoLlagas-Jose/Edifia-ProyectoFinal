@@ -29,7 +29,9 @@ Este repositorio contiene el sistema **Edifia**, desarrollado en Visual Studio c
 
 ## 🚀 Despliegue del proyecto
 
-### 1. Clonar o descargar el repositorio
+### 1. Clonar, descargar el repositorio o versión portable
+
+Puedes encontrar la versión portable en Releases de este mismo repositorio.
 
 Puedes usar Git:
 
@@ -75,10 +77,10 @@ Modifica el archivo con nombre Edifia_GUI.dll.config (Puede usar notepad, Visual
 Si utilizamos SQL Server:
 
 ```
-	<connectionStrings>
-		<add name ="Edifia" connectionString ="server=;Database=Edifia;Integrated Security=true"
-			 providerName="System.Data.SqlClient"/>
-	</connectionStrings>
+<connectionStrings>
+   <add name ="Edifia" connectionString ="server=;Database=Edifia;Integrated Security=true"
+           providerName="System.Data.SqlClient"/>
+</connectionStrings>
 ```
 
 Si usamos SQL Express:
