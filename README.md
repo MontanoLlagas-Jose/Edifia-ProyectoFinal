@@ -91,3 +91,8 @@ Si usamos SQL Express:
        connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Edifia;Integrated Security=True" />
 </connectionStrings>
 ```
+---
+
+### 🧾 Licencia
+
+Nuestro proyecto es de uso meramente académico.
