@@ -93,6 +93,15 @@ Si usamos SQL Express:
 ```
 ---
 
+### Credenciales
+
+Para las pruebas del proyecto se recomienda usar una cuenta de administrador:
+
+Usuario: cperez
+Contraseña: pass123
+
+---
+
 ### 🧾 Licencia
 
 Nuestro proyecto es de uso meramente académico.
